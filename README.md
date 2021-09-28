@@ -1,0 +1,2 @@
+# FanBotzV1
+bot
